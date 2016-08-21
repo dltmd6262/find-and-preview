@@ -1,0 +1,9 @@
+[package]
+name = "preview"
+version = "0.1.0"
+authors = ["Seung Yup Han <syh62@monsterplanet.co.kr>"]
+
+[dependencies]
+docopt = "0.6"
+rustc-serialize = "0.3"
+ansi_term = "0.8"
